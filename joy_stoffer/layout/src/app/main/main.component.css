@@ -1,0 +1,12 @@
+.main{
+     background-color: #9ec5f7;
+     height: 275px;
+     width: 575px;
+     display: inline-block;
+     border: 2px solid black;
+     margin-left: 20px;
+}
+p {
+     margin-left: 15px;
+     margin-right: 15px;
+}

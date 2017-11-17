@@ -1,0 +1,16 @@
+.nav{
+     background-color: #9ec5f7;
+     height: 275px;
+     width: 150px;
+     display: inline-block;
+     vertical-align: top;
+     margin-left: 15px;
+     border: 2px solid black;
+}
+
+button{
+     display: inline-block;
+     width: 100px;
+     margin-left: 25px;
+     margin-top: 20px;
+}
